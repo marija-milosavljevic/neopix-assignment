@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\Neopix\Neopix\bin\Debug\netcoreapp3.1\Neopix.exe
+C:\Users\ASUS\source\repos\Neopix\Neopix\obj\Debug\netcoreapp3.1\Neopix.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Neopix\Neopix\obj\Debug\netcoreapp3.1\Neopix.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Neopix\Neopix\obj\Debug\netcoreapp3.1\Neopix.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Neopix\Neopix\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\source\repos\Neopix\Neopix\bin\Debug\netcoreapp3.1\WebDriver.dll
+C:\Users\ASUS\source\repos\Neopix\Neopix\obj\Debug\netcoreapp3.1\Neopix.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Neopix\Neopix\bin\Debug\netcoreapp3.1\Neopix.deps.json
+C:\Users\ASUS\source\repos\Neopix\Neopix\bin\Debug\netcoreapp3.1\Neopix.runtimeconfig.json
+C:\Users\ASUS\source\repos\Neopix\Neopix\bin\Debug\netcoreapp3.1\Neopix.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\Neopix\Neopix\bin\Debug\netcoreapp3.1\Neopix.dll
+C:\Users\ASUS\source\repos\Neopix\Neopix\bin\Debug\netcoreapp3.1\Neopix.pdb
+C:\Users\ASUS\source\repos\Neopix\Neopix\bin\Debug\netcoreapp3.1\WebDriver.Support.dll
+C:\Users\ASUS\source\repos\Neopix\Neopix\obj\Debug\netcoreapp3.1\Neopix.dll
+C:\Users\ASUS\source\repos\Neopix\Neopix\obj\Debug\netcoreapp3.1\Neopix.pdb
+C:\Users\ASUS\source\repos\Neopix\Neopix\obj\Debug\netcoreapp3.1\Neopix.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\Neopix\Neopix\obj\Debug\netcoreapp3.1\Neopix.csproj.CoreCompileInputs.cache
